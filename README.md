@@ -2,7 +2,7 @@
 
 This project is designed for CNN classification, DQN-based active learning, and optional Differential Evolution (DE) hyperparameter search on OASIS1 MRI data. It supports 2.5D multi-slice input and configurable CNN backbones.
 
-## Notebooks
+## Jupyter Notebooks
 
 | Notebook | Purpose |
 | --- | --- |
